@@ -1,0 +1,15 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "(my skills test page)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "\"Go!\""
+  },
+  "author": "Algirdas Navickas",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
